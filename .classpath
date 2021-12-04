@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="library/javax.mail.jar"/>
+	<classpathentry kind="lib" path="library/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="library/JTattoo-1.6.10.jar"/>
+	<classpathentry kind="lib" path="library/xuggle-xuggler-5.4.jar"/>
+	<classpathentry kind="lib" path="library/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="library/slf4j-jdk14-1.7.7.jar"/>
+	<classpathentry kind="lib" path="library/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

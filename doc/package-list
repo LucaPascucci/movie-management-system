@@ -1,0 +1,15 @@
+mms.controller
+mms.controller.admin
+mms.controller.customer
+mms.controller.interfaces
+mms.controller.society
+mms.database
+mms.database.interfaces
+mms.exception
+mms.main
+mms.mediaworker
+mms.model
+mms.view
+mms.view.admin
+mms.view.customer
+mms.view.society
